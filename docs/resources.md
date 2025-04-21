@@ -21,3 +21,8 @@ https://github.com/FeralInteractive/gamemode/issues/318
 
 - Based on my research, here's why NumPy>=2.0.0 doesn't work with `pyspark.pandas`. I encountered the exact same problem.
 https://issues.apache.org/jira/browse/SPARK-48710
+
+## PySpark
+
+- Pandas API on Spark Docs
+https://spark.apache.org/docs/latest/api/python/reference/pyspark.pandas/index.html
