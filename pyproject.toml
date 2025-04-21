@@ -5,7 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "pyspark>=3.5.5",
+    "ipykernel>=6.29.5",
+    "pyspark[pandas-on-spark]>=3.5.5",
+    "pytest>=8.3.5",
+    "setuptools>=79.0.0",
 ]
 
 [dependency-groups]
