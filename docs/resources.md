@@ -14,3 +14,10 @@ https://gist.github.com/ilbunilcho/4280bd55a10cefef75e74986b6bff936?permalink_co
 
 ### Download uv
 https://docs.astral.sh/uv/getting-started/installation/#standalone-installer
+
+
+### Install NumPy 1.26.4
+https://github.com/FeralInteractive/gamemode/issues/318
+
+- Based on my research, here's why NumPy>=2.0.0 doesn't work with `pyspark.pandas`. I encountered the exact same problem.
+https://issues.apache.org/jira/browse/SPARK-48710
